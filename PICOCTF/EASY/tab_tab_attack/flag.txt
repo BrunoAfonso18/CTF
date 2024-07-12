@@ -1,0 +1,3 @@
+picoCTF{l3v3l_up!_t4k3_4_r35t!_2bcfb2ab}
+
+flag is hidden in last file use findstr(cmd) grep(linux shell)
